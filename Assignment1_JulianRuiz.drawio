@@ -1,0 +1,268 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="UXZ8rUcii9tITQfvqEjx">
+    <mxGraphModel dx="2835" dy="1982" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1f4e79;fontColor=#ffffff;strokeColor=#1f4e79;fontSize=16;fontStyle=1;" value="Semillero P2086&#xa;Semana 5–10 nov 2026" vertex="1">
+          <mxGeometry height="100" width="240" x="815" y="475" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;fontStyle=1;" value="Del problema a la solución&#xa;(5 nov)" vertex="1">
+          <mxGeometry height="56" width="190" x="1005" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-3" edge="1" parent="1" source="pXk-EYU9SAKjjqIRm8i6-1" style="endArrow=none;html=1;strokeWidth=2;strokeColor=#6c8ebf;curved=1;" target="pXk-EYU9SAKjjqIRm8i6-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;fontSize=11;" value="Espacio del problema" vertex="1">
+          <mxGeometry height="40" width="230" x="1275" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-5" edge="1" parent="1" source="pXk-EYU9SAKjjqIRm8i6-2" style="endArrow=none;html=1;strokeColor=#6c8ebf;edgeStyle=entityRelationEdgeStyle;" target="pXk-EYU9SAKjjqIRm8i6-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;fontSize=11;" value="Lenguaje ubicuo" vertex="1">
+          <mxGeometry height="40" width="230" x="1275" y="262" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-7" edge="1" parent="1" source="pXk-EYU9SAKjjqIRm8i6-2" style="endArrow=none;html=1;strokeColor=#6c8ebf;edgeStyle=entityRelationEdgeStyle;" target="pXk-EYU9SAKjjqIRm8i6-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;fontSize=11;" value="Requisitos → diseño → plan → código → pruebas" vertex="1">
+          <mxGeometry height="40" width="230" x="1275" y="314" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-9" edge="1" parent="1" source="pXk-EYU9SAKjjqIRm8i6-2" style="endArrow=none;html=1;strokeColor=#6c8ebf;edgeStyle=entityRelationEdgeStyle;" target="pXk-EYU9SAKjjqIRm8i6-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;fontSize=11;" value="Marco 4P+T" vertex="1">
+          <mxGeometry height="40" width="230" x="1275" y="366" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-11" edge="1" parent="1" source="pXk-EYU9SAKjjqIRm8i6-2" style="endArrow=none;html=1;strokeColor=#6c8ebf;edgeStyle=entityRelationEdgeStyle;" target="pXk-EYU9SAKjjqIRm8i6-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;fontStyle=1;" value="Modelos y calidad&#xa;(5–6 nov)" vertex="1">
+          <mxGeometry height="56" width="190" x="1170" y="497" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-13" edge="1" parent="1" source="pXk-EYU9SAKjjqIRm8i6-1" style="endArrow=none;html=1;strokeWidth=2;strokeColor=#82b366;curved=1;" target="pXk-EYU9SAKjjqIRm8i6-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=11;" value="Cascada → iterativo → ágil (Scrum/Kanban)" vertex="1">
+          <mxGeometry height="40" width="230" x="1500" y="427" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-15" edge="1" parent="1" source="pXk-EYU9SAKjjqIRm8i6-12" style="endArrow=none;html=1;strokeColor=#82b366;edgeStyle=entityRelationEdgeStyle;" target="pXk-EYU9SAKjjqIRm8i6-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=11;" value="Requisitos SMART" vertex="1">
+          <mxGeometry height="40" width="230" x="1500" y="479" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-17" edge="1" parent="1" source="pXk-EYU9SAKjjqIRm8i6-12" style="endArrow=none;html=1;strokeColor=#82b366;edgeStyle=entityRelationEdgeStyle;" target="pXk-EYU9SAKjjqIRm8i6-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=11;" value="Definition of Ready / Done" vertex="1">
+          <mxGeometry height="40" width="230" x="1500" y="531" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-19" edge="1" parent="1" source="pXk-EYU9SAKjjqIRm8i6-12" style="endArrow=none;html=1;strokeColor=#82b366;edgeStyle=entityRelationEdgeStyle;" target="pXk-EYU9SAKjjqIRm8i6-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=11;" value="Validación ≠ verificación" vertex="1">
+          <mxGeometry height="40" width="230" x="1500" y="583" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-21" edge="1" parent="1" source="pXk-EYU9SAKjjqIRm8i6-12" style="endArrow=none;html=1;strokeColor=#82b366;edgeStyle=entityRelationEdgeStyle;" target="pXk-EYU9SAKjjqIRm8i6-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13;fontStyle=1;" value="Estimación y planeación&#xa;(5–6 nov)" vertex="1">
+          <mxGeometry height="56" width="190" x="1005" y="714" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-23" edge="1" parent="1" source="pXk-EYU9SAKjjqIRm8i6-1" style="endArrow=none;html=1;strokeWidth=2;strokeColor=#d6b656;curved=1;" target="pXk-EYU9SAKjjqIRm8i6-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d6b656;fontSize=11;" value="Fibonacci en horas · planning poker" vertex="1">
+          <mxGeometry height="40" width="230" x="1275" y="644" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-25" edge="1" parent="1" source="pXk-EYU9SAKjjqIRm8i6-22" style="endArrow=none;html=1;strokeColor=#d6b656;edgeStyle=entityRelationEdgeStyle;" target="pXk-EYU9SAKjjqIRm8i6-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d6b656;fontSize=11;" value="Tareas ≤ 4 h (tope 6)" vertex="1">
+          <mxGeometry height="40" width="230" x="1275" y="696" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-27" edge="1" parent="1" source="pXk-EYU9SAKjjqIRm8i6-22" style="endArrow=none;html=1;strokeColor=#d6b656;edgeStyle=entityRelationEdgeStyle;" target="pXk-EYU9SAKjjqIRm8i6-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d6b656;fontSize=11;" value="Hitos de 0 h · WBS · dependencias" vertex="1">
+          <mxGeometry height="40" width="230" x="1275" y="748" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-29" edge="1" parent="1" source="pXk-EYU9SAKjjqIRm8i6-22" style="endArrow=none;html=1;strokeColor=#d6b656;edgeStyle=entityRelationEdgeStyle;" target="pXk-EYU9SAKjjqIRm8i6-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d6b656;fontSize=11;" value="Síndrome del 90 %" vertex="1">
+          <mxGeometry height="40" width="230" x="1275" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-31" edge="1" parent="1" source="pXk-EYU9SAKjjqIRm8i6-22" style="endArrow=none;html=1;strokeColor=#d6b656;edgeStyle=entityRelationEdgeStyle;" target="pXk-EYU9SAKjjqIRm8i6-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=13;fontStyle=1;" value="Herramientas de gestión&#xa;(6 nov)" vertex="1">
+          <mxGeometry height="56" width="190" x="675" y="714" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-33" edge="1" parent="1" source="pXk-EYU9SAKjjqIRm8i6-1" style="endArrow=none;html=1;strokeWidth=2;strokeColor=#d79b00;curved=1;" target="pXk-EYU9SAKjjqIRm8i6-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d79b00;fontSize=11;" value="ClickUp: listas, Gantt, carga" vertex="1">
+          <mxGeometry height="40" width="230" x="365" y="644" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-35" edge="1" parent="1" source="pXk-EYU9SAKjjqIRm8i6-32" style="endArrow=none;html=1;strokeColor=#d79b00;edgeStyle=entityRelationEdgeStyle;" target="pXk-EYU9SAKjjqIRm8i6-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d79b00;fontSize=11;" value="Outlook con código de proyecto" vertex="1">
+          <mxGeometry height="40" width="230" x="365" y="696" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-37" edge="1" parent="1" source="pXk-EYU9SAKjjqIRm8i6-32" style="endArrow=none;html=1;strokeColor=#d79b00;edgeStyle=entityRelationEdgeStyle;" target="pXk-EYU9SAKjjqIRm8i6-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d79b00;fontSize=11;" value="OpenAir: jueves 5 p. m." vertex="1">
+          <mxGeometry height="40" width="230" x="365" y="748" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-39" edge="1" parent="1" source="pXk-EYU9SAKjjqIRm8i6-32" style="endArrow=none;html=1;strokeColor=#d79b00;edgeStyle=entityRelationEdgeStyle;" target="pXk-EYU9SAKjjqIRm8i6-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d79b00;fontSize=11;" value="Daily: ayer · hoy · bloqueos" vertex="1">
+          <mxGeometry height="40" width="230" x="365" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-41" edge="1" parent="1" source="pXk-EYU9SAKjjqIRm8i6-32" style="endArrow=none;html=1;strokeColor=#d79b00;edgeStyle=entityRelationEdgeStyle;" target="pXk-EYU9SAKjjqIRm8i6-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;fontStyle=1;" value="Plataforma HomeDoc&#xa;(10 nov)" vertex="1">
+          <mxGeometry height="56" width="190" x="510" y="497" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-43" edge="1" parent="1" source="pXk-EYU9SAKjjqIRm8i6-1" style="endArrow=none;html=1;strokeWidth=2;strokeColor=#9673a6;curved=1;" target="pXk-EYU9SAKjjqIRm8i6-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9673a6;fontSize=11;" value="Aceleradores reutilizables" vertex="1">
+          <mxGeometry height="40" width="230" x="140" y="401" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-45" edge="1" parent="1" source="pXk-EYU9SAKjjqIRm8i6-42" style="endArrow=none;html=1;strokeColor=#9673a6;edgeStyle=entityRelationEdgeStyle;" target="pXk-EYU9SAKjjqIRm8i6-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9673a6;fontSize=11;" value="Keycloak · SSO OAuth2 + OIDC" vertex="1">
+          <mxGeometry height="40" width="230" x="140" y="453" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-47" edge="1" parent="1" source="pXk-EYU9SAKjjqIRm8i6-42" style="endArrow=none;html=1;strokeColor=#9673a6;edgeStyle=entityRelationEdgeStyle;" target="pXk-EYU9SAKjjqIRm8i6-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-48" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9673a6;fontSize=11;" value="Search Engine (OpenSearch, embeddings)" vertex="1">
+          <mxGeometry height="40" width="230" x="140" y="505" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-49" edge="1" parent="1" source="pXk-EYU9SAKjjqIRm8i6-42" style="endArrow=none;html=1;strokeColor=#9673a6;edgeStyle=entityRelationEdgeStyle;" target="pXk-EYU9SAKjjqIRm8i6-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9673a6;fontSize=11;" value="Nadia: LLM + RAG" vertex="1">
+          <mxGeometry height="40" width="230" x="140" y="557" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-51" edge="1" parent="1" source="pXk-EYU9SAKjjqIRm8i6-42" style="endArrow=none;html=1;strokeColor=#9673a6;edgeStyle=entityRelationEdgeStyle;" target="pXk-EYU9SAKjjqIRm8i6-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9673a6;fontSize=11;" value="AWS como código (Fargate, CloudFront)" vertex="1">
+          <mxGeometry height="40" width="230" x="140" y="609" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-53" edge="1" parent="1" source="pXk-EYU9SAKjjqIRm8i6-42" style="endArrow=none;html=1;strokeColor=#9673a6;edgeStyle=entityRelationEdgeStyle;" target="pXk-EYU9SAKjjqIRm8i6-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=13;fontStyle=1;" value="Pendientes" vertex="1">
+          <mxGeometry height="56" width="190" x="675" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-55" edge="1" parent="1" source="pXk-EYU9SAKjjqIRm8i6-1" style="endArrow=none;html=1;strokeWidth=2;strokeColor=#b85450;curved=1;" target="pXk-EYU9SAKjjqIRm8i6-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-56" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;fontSize=11;" value="Certificación AWS Cloud Practitioner" vertex="1">
+          <mxGeometry height="40" width="230" x="365" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-57" edge="1" parent="1" source="pXk-EYU9SAKjjqIRm8i6-54" style="endArrow=none;html=1;strokeColor=#b85450;edgeStyle=entityRelationEdgeStyle;" target="pXk-EYU9SAKjjqIRm8i6-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-58" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;fontSize=11;" value="Accesos ClickUp / OpenAir" vertex="1">
+          <mxGeometry height="40" width="230" x="365" y="262" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-59" edge="1" parent="1" source="pXk-EYU9SAKjjqIRm8i6-54" style="endArrow=none;html=1;strokeColor=#b85450;edgeStyle=entityRelationEdgeStyle;" target="pXk-EYU9SAKjjqIRm8i6-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-60" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;fontSize=11;" value="Assignment: resumen de 3 sesiones" vertex="1">
+          <mxGeometry height="40" width="230" x="365" y="314" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-61" edge="1" parent="1" source="pXk-EYU9SAKjjqIRm8i6-54" style="endArrow=none;html=1;strokeColor=#b85450;edgeStyle=entityRelationEdgeStyle;" target="pXk-EYU9SAKjjqIRm8i6-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-62" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;fontSize=11;" value="Aprendizaje: roadmap.sh, Tech Talks" vertex="1">
+          <mxGeometry height="40" width="230" x="365" y="366" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-63" edge="1" parent="1" source="pXk-EYU9SAKjjqIRm8i6-54" style="endArrow=none;html=1;strokeColor=#b85450;edgeStyle=entityRelationEdgeStyle;" target="pXk-EYU9SAKjjqIRm8i6-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-64" parent="1" style="text;html=1;fontSize=20;fontStyle=1;align=left;verticalAlign=middle;" value="Herramientas clave de la semana" vertex="1">
+          <mxGeometry height="40" width="600" x="155" y="985" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-65" parent="1" style="swimlane;html=1;startSize=40;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;fontStyle=1;rounded=1;arcSize=6;" value="Gestión del trabajo" vertex="1">
+          <mxGeometry height="420" width="370" x="155" y="1045" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-66" parent="pXk-EYU9SAKjjqIRm8i6-65" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d79b00;fontSize=11;align=left;spacingLeft=8;spacingRight=6;verticalAlign=middle;" value="&lt;b&gt;ClickUp&lt;/b&gt;&lt;br&gt;Planear tareas: estimados, responsables, hitos, dependencias, Gantt y carga por persona." vertex="1">
+          <mxGeometry height="78" width="346" x="12" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-67" parent="pXk-EYU9SAKjjqIRm8i6-65" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d79b00;fontSize=11;align=left;spacingLeft=8;spacingRight=6;verticalAlign=middle;" value="&lt;b&gt;Outlook (Calendar)&lt;/b&gt;&lt;br&gt;Registrar el día a día con el código de proyecto; un bot agrupa las horas cada noche." vertex="1">
+          <mxGeometry height="78" width="346" x="12" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-68" parent="pXk-EYU9SAKjjqIRm8i6-65" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d79b00;fontSize=11;align=left;spacingLeft=8;spacingRight=6;verticalAlign=middle;" value="&lt;b&gt;OpenAir&lt;/b&gt;&lt;br&gt;Hoja de tiempo oficial de Blend; se llena a más tardar el jueves 5 p. m." vertex="1">
+          <mxGeometry height="78" width="346" x="12" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-69" parent="pXk-EYU9SAKjjqIRm8i6-65" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d79b00;fontSize=11;align=left;spacingLeft=8;spacingRight=6;verticalAlign=middle;" value="&lt;b&gt;SharePoint&lt;/b&gt;&lt;br&gt;Documentos de la empresa, como el Maestro de Proyectos con los códigos." vertex="1">
+          <mxGeometry height="78" width="346" x="12" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-70" parent="1" style="swimlane;html=1;startSize=40;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;fontStyle=1;rounded=1;arcSize=6;" value="Aprendizaje y diagramación" vertex="1">
+          <mxGeometry height="420" width="370" x="555" y="1045" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-71" parent="pXk-EYU9SAKjjqIRm8i6-70" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=11;align=left;spacingLeft=8;spacingRight=6;verticalAlign=middle;" value="&lt;b&gt;Udemy Blend&lt;/b&gt;&lt;br&gt;Curso y exámenes de práctica de AWS Cloud Practitioner." vertex="1">
+          <mxGeometry height="78" width="346" x="12" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-72" parent="pXk-EYU9SAKjjqIRm8i6-70" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=11;align=left;spacingLeft=8;spacingRight=6;verticalAlign=middle;" value="&lt;b&gt;Centro de analítica (app.ia.blend360.com)&lt;/b&gt;&lt;br&gt;Los 5 tests de AWS Exams previos al voucher." vertex="1">
+          <mxGeometry height="78" width="346" x="12" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-73" parent="pXk-EYU9SAKjjqIRm8i6-70" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=11;align=left;spacingLeft=8;spacingRight=6;verticalAlign=middle;" value="&lt;b&gt;draw.io&lt;/b&gt;&lt;br&gt;Herramienta oficial de diagramación: arquitecturas, mapas y flujos." vertex="1">
+          <mxGeometry height="78" width="346" x="12" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-74" parent="pXk-EYU9SAKjjqIRm8i6-70" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=11;align=left;spacingLeft=8;spacingRight=6;verticalAlign=middle;" value="&lt;b&gt;roadmap.sh&lt;/b&gt;&lt;br&gt;Rutas de aprendizaje por especialidad (frontend, backend, IA…)." vertex="1">
+          <mxGeometry height="78" width="346" x="12" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-75" parent="1" style="swimlane;html=1;startSize=40;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;fontStyle=1;rounded=1;arcSize=6;" value="Plataforma HomeDoc" vertex="1">
+          <mxGeometry height="600" width="370" x="955" y="1045" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-76" parent="pXk-EYU9SAKjjqIRm8i6-75" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9673a6;fontSize=11;align=left;spacingLeft=8;spacingRight=6;verticalAlign=middle;" value="&lt;b&gt;Keycloak&lt;/b&gt;&lt;br&gt;Proveedor de identidad: SSO con OAuth2 + OpenID Connect, federado con Entra ID o Google." vertex="1">
+          <mxGeometry height="78" width="346" x="12" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-77" parent="pXk-EYU9SAKjjqIRm8i6-75" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9673a6;fontSize=11;align=left;spacingLeft=8;spacingRight=6;verticalAlign=middle;" value="&lt;b&gt;Elasticsearch / OpenSearch&lt;/b&gt;&lt;br&gt;Indexan documentos JSON para búsquedas por palabra o semánticas (embeddings)." vertex="1">
+          <mxGeometry height="78" width="346" x="12" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-78" parent="pXk-EYU9SAKjjqIRm8i6-75" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9673a6;fontSize=11;align=left;spacingLeft=8;spacingRight=6;verticalAlign=middle;" value="&lt;b&gt;Search Engine&lt;/b&gt;&lt;br&gt;Interfaz de búsqueda de HomeDoc sobre OpenSearch (con Searchkit)." vertex="1">
+          <mxGeometry height="78" width="346" x="12" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-79" parent="pXk-EYU9SAKjjqIRm8i6-75" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9673a6;fontSize=11;align=left;spacingLeft=8;spacingRight=6;verticalAlign=middle;" value="&lt;b&gt;Nadia (Open WebUI / Bedrock Chat)&lt;/b&gt;&lt;br&gt;Chat con LLM (Claude, GPT) + RAG sobre documentos de la organización." vertex="1">
+          <mxGeometry height="78" width="346" x="12" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-80" parent="pXk-EYU9SAKjjqIRm8i6-75" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9673a6;fontSize=11;align=left;spacingLeft=8;spacingRight=6;verticalAlign=middle;" value="&lt;b&gt;Docassemble&lt;/b&gt;&lt;br&gt;Formularios y entrevistas guiadas integradas a la plataforma." vertex="1">
+          <mxGeometry height="78" width="346" x="12" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-81" parent="pXk-EYU9SAKjjqIRm8i6-75" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9673a6;fontSize=11;align=left;spacingLeft=8;spacingRight=6;verticalAlign=middle;" value="&lt;b&gt;Kepler&lt;/b&gt;&lt;br&gt;Mapas interactivos con capas y datos GeoJSON." vertex="1">
+          <mxGeometry height="78" width="346" x="12" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-82" parent="1" style="swimlane;html=1;startSize=40;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontStyle=1;rounded=1;arcSize=6;" value="Infraestructura AWS" vertex="1">
+          <mxGeometry height="420" width="370" x="1355" y="1045" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-83" parent="pXk-EYU9SAKjjqIRm8i6-82" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;fontSize=11;align=left;spacingLeft=8;spacingRight=6;verticalAlign=middle;" value="&lt;b&gt;Route 53&lt;/b&gt;&lt;br&gt;Dominios (DNS) de las aplicaciones." vertex="1">
+          <mxGeometry height="78" width="346" x="12" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-84" parent="pXk-EYU9SAKjjqIRm8i6-82" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;fontSize=11;align=left;spacingLeft=8;spacingRight=6;verticalAlign=middle;" value="&lt;b&gt;CloudFront&lt;/b&gt;&lt;br&gt;Distribución y caché de recursos." vertex="1">
+          <mxGeometry height="78" width="346" x="12" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-85" parent="pXk-EYU9SAKjjqIRm8i6-82" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;fontSize=11;align=left;spacingLeft=8;spacingRight=6;verticalAlign=middle;" value="&lt;b&gt;Load Balancer + Fargate&lt;/b&gt;&lt;br&gt;Contenedores Docker balanceados, sin administrar servidores." vertex="1">
+          <mxGeometry height="78" width="346" x="12" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="pXk-EYU9SAKjjqIRm8i6-86" parent="pXk-EYU9SAKjjqIRm8i6-82" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;fontSize=11;align=left;spacingLeft=8;spacingRight=6;verticalAlign=middle;" value="&lt;b&gt;S3 / S3 Vectors&lt;/b&gt;&lt;br&gt;Almacenamiento de archivos y de embeddings." vertex="1">
+          <mxGeometry height="78" width="346" x="12" y="320" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
